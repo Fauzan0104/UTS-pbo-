@@ -3,7 +3,7 @@ include 'database.php';
 $db = new database();
 ?>
 <h1>CRUD OOP PHP</h1>
-<h2>WWW.ALLANJULISAN.COM</h2>
+<h2>WWW.UTSPBO.COM</h2>
 <h3>Data User</h3>
  
 <a href="input.php">Input Data</a>
