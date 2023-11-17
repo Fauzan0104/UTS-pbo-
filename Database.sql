@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
  
 --
--- Database: `AllanjuliSan`
+-- Database: `UTSPbo`
 --
  
 -- --------------------------------------------------------
@@ -39,8 +39,8 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
  
 INSERT INTO `user` (`id`, `nama`, `alamat`, `usia`) VALUES
-(1, 'Andi', 'Jakarta', 20),
-(3, 'Budi', 'Bandung', 30);
+(1, 'Adi', 'Jakarta', 20),
+(3, 'Abidin', 'Bandung', 30);
  
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
